@@ -1,3 +1,4 @@
+![logo](https://github.com/Badola-ux/Badola-ux/blob/main/360_F_941542183_jY7B6j8W1AibG5B5y6or05urYeyWX0K6.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Yash Badola</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align = "right" alt ="coading" width = "400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
